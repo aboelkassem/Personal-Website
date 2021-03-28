@@ -4,7 +4,7 @@
 			class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between pb-16 lg:py-24"
 		>
 			<div
-				class="text-5xl font-bold w-full sm:w-3/5 text-center mt-16 lg:mt-24 sm:text-left"
+				class="text-5xl font-bold w-full sm:w-3/5 text-center mt-16 lg:mt-24 sm:text-left xs:mb-16"
 			>
 				<h5 class="text-2xl">
 					Hello! <span class="wave">👋🏻</span>
@@ -12,7 +12,7 @@
 				<div class="leading-tight">I’m Mohamed Abdelrahman</div>
 
 				<div class="pt-2 text-2xl text-blue-400 leading-tight">
-					<vue-typed-js :strings="['21-year-old full-stack web developer', 'Software Developer', 'Open Source Contributor', 'Back-End Developer']" :loop="true" :typeSpeed="30">
+					<vue-typed-js :strings="['Full Stack web developer', 'Software Developer', 'Open Source Contributor', 'Back-End Developer']" :loop="true" :typeSpeed="30">
 						<h1>I'm a <span class="typing"></span></h1>
 					</vue-typed-js>
 				</div>
@@ -86,7 +86,7 @@
                 height="20px"
 				src="/developer.svg"
 				alt="hero"
-				class="mx-auto sm:mx-0"
+				class="mx-auto sm:mx-0 md:w-2/4 sm:w-2/5 md:pl-16 md:pb-16"
 			/>
 		</div>
 
@@ -515,16 +515,7 @@
 					<p class="my-8">
 						Want to chat about anything ranging from marine life to
 						custom hooks in React? Ping me anytime on
-						<a href="https://twitter.com/vrs2001">Twitter</a>.
-					</p>
-
-					<p class="my-8">
-						In case you prefer face-to-face discussions, do tell
-						when by selecting a date & time over
-						<a
-							href=""
-							>here</a
-						>.
+						<a href="https://twitter.com/aboel_kassem">Twitter</a>.
 					</p>
 
 					<p class="my-8">
@@ -535,7 +526,7 @@
 
 					<div class="text-lg sm:text-lg mb-16">
 						<form
-							action="https://formspree.io/f/xgepyjjq"
+							action="https://formspree.io/f/mnqlawow"
 							method="POST"
 							class="mb-12"
 						>

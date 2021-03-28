@@ -58,7 +58,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:image',
-        content: 'https://res.cloudinary.com/dvdcninhs/image/upload/v1606295687/black3_cdsm6m.jpg',
+        content: 'https://res.cloudinary.com/dvdcninhs/image/upload/v1616943424/IMG_20210325_074803_ykddh1.jpg',
     });
 
     head.meta.push({
@@ -68,7 +68,7 @@ export default function(Vue, { router, head, isClient }) {
     
     head.meta.push({
         name: 'og:image',
-        content: 'https://res.cloudinary.com/dvdcninhs/image/upload/v1606295687/black3_cdsm6m.jpg',
+        content: 'https://res.cloudinary.com/dvdcninhs/image/upload/v1616943424/IMG_20210325_074803_ykddh1.jpg',
     });
 
     head.meta.push({
