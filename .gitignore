@@ -1,12 +1,12 @@
 *.log
 .cache
 .DS_Store
-src/.temp
+# src/.temp
 node_modules
 dist
 .env
 .env.*
-static/rss.xml
+# static/rss.xml
 
 # Local Netlify folder
 .netlify
