@@ -1,3 +1,3 @@
 [build]
   publish = "dist"
-  command = "gridsome build"
+  command = "npm install & gridsome build"

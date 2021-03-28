@@ -1,6 +1,6 @@
 # Personal Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6abdac63-93bd-45e4-8e60-12e2879c4a6a/deploy-status)](https://www.aboelkassem.com/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43e6409b-6c59-41cf-ae20-5d84ba06e44e/deploy-status)](https://app.netlify.com/sites/aboelkassem/deploys)
 
 Tech stack used: GridSome, Vue JS.
 
