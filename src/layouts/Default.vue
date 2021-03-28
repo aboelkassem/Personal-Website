@@ -15,7 +15,7 @@
 						><g-image src="/logo.png" class="w-1/4 lg:ml-20" alt="logo"
 					/></g-link>
 				</div>
-				<div class="xs:absolute xs:inset-y-13 xs:right-8 block lg:hidden">
+				<div class="absolute inset-y-13 right-8 block lg:hidden">
 					<button
 						@click="toggle"
 						class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600"
@@ -34,7 +34,7 @@
 					</button>
 				</div>
 				<ul
-					class="lg:absolute lg:inset-y-13 lg:right-8 uppercase tracking-wide font-bold w-full block flex-grow lg:space-x-8 space-y-6 lg:space-y-0 lg:flex lg:flex-initial lg:w-auto items-center mt-8 lg:mt-0"
+					class="absolute right-1.5 inset-y-13 right-8 uppercase tracking-wide font-bold w-full block flex-grow lg:space-x-8 space-y-6 lg:space-y-0 lg:flex lg:flex-initial lg:w-auto items-center mt-8 lg:mt-0"
 					:class="isOpen ? 'block' : 'hidden'"
 					data-cypress="menu"
 				>
