@@ -20,6 +20,7 @@
 				<a
 					class="inline-block bg-background-secondary button py-2 mx-1 px-3 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
 					href="https://drive.google.com/file/d/1uxnweDRi0c_OcKkCtYc4gY-Q-Vnzthpv/view?usp=sharing"
+					target="_blank"
 					>
 					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text inline"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
 					View Resume</a
@@ -28,6 +29,7 @@
 				<a
 					class="inline-block bg-background-secondary button py-2 px-3 mx-1 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
 					href="https://www.linkedin.com/in/aboelkassem"
+					target="_blank"
 					>
 					<svg
 						width="20"
@@ -47,6 +49,7 @@
 				<a
 					class="inline-block bg-background-secondary button py-2 px-3 mx-1 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
 					href="https://github.com/aboelkassem/"
+					target="_blank"
 					>
 					<svg
 						width="20"
@@ -443,56 +446,38 @@
 			<ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
 				<ProjectCard
 					projectName="Listify"
-					imgUrl="/mern.svg"
-					liveLink="https://github.com/aboelkassem/Listify"
+					imgUrl="/aaise.svg"
+					liveLink="https://youtu.be/NlUXDOMyAPM"
 					codeLink="https://github.com/aboelkassem/Listify"
 					imgCoverUrl="/listify.png"
-					description="A Video, Music sharing and Streaming experience Platform that allow people to share their favorite music with other online people."
-					v-bind:tools="['hey','hello',3, 4]"
+					description="A video, music sharing and streaming experience platform based on ASP.NET Core and Angular."
+					v-bind:tools="['ASP.NET Core','Angular','IdentityServer4', 'SignalR', 'Jira','Paypal','Youtube', 'Spotify']"
 				/>
 				<ProjectCard
-					projectName="Listify"
-					imgUrl="/zemotacqy.svg"
-					liveLink="https://github.com/aboelkassem/Listify"
-					codeLink="https://github.com/aboelkassem/Listify"
+					projectName="ChattingApp"
+					imgUrl="/aaseh.svg"
+					liveLink="https://chatting-apps.herokuapp.com"
+					codeLink="https://github.com/aboelkassem/ChattingApp"
 					imgCoverUrl="/chattingapp.png"
-					description="Real world messaging system that enables users to follow and message each other by displaying and editing their profiles."
+					description="A real-time messaging and dating application build with ASP.NET Core and Angular."
 					v-bind:tools="['hey','hello',3, 4]"
 				/>
 				<ProjectCard
-					projectName="Listify"
-					imgUrl="/react.svg"
-					liveLink="https://github.com/aboelkassem/Listify"
-					codeLink="https://github.com/aboelkassem/Listify"
-					imgCoverUrl="/react.svg"
-					description=" A real-time whiteboard collaboration app built with Flask. "
+					projectName="Foods"
+					imgUrl="/asejb.svg"
+					liveLink="https://f00ds.herokuapp.com"
+					codeLink="https://github.com/aboelkassem/Foods_Restaurant"
+					imgCoverUrl="/foods.png"
+					description="A restaurant management system that enable customers to order food online and get delivered."
 					v-bind:tools="['hey','hello',3, 4]"
 				/>
 				<ProjectCard
-					projectName="Listify"
-					imgUrl="/tfjs.svg"
-					liveLink="https://github.com/aboelkassem/Listify"
-					codeLink="https://github.com/aboelkassem/Listify"
-					imgCoverUrl="/listify.png"
-					description=" A simple and extensible blog web-app based on Flask. "
-					v-bind:tools="['hey','hello',3, 4]"
-				/>
-				<ProjectCard
-					projectName="Listify"
-					imgUrl="/arcade.svg"
-					liveLink="https://github.com/aboelkassem/Listify"
-					codeLink="https://github.com/aboelkassem/Listify"
-					imgCoverUrl="/listify.png"
-					description=" A system that calculates the attendance of the class from a panoramic image of a live classroom. "
-					v-bind:tools="['hey','hello',3, 4]"
-				/>
-				<ProjectCard
-					projectName="Listify"
-					imgUrl="/puppeteer.svg"
-					liveLink="https://github.com/aboelkassem/Listify"
-					codeLink="https://github.com/aboelkassem/Listify"
-					imgCoverUrl="/listify.png"
-					description=" A Seq2Seq model that generates a short summary of the given input video. "
+					projectName="Library"
+					imgUrl="/aes.svg"
+					liveLink="http://library.somee.com"
+					codeLink="https://github.com/aboelkassem/Library_WebApplication"
+					imgCoverUrl="/library.png"
+					description="A library managment system for uploading, downloading and browsing books based on ASP.NET MVC."
 					v-bind:tools="['hey','hello',3, 4]"
 				/>
 			</ul>
