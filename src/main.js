@@ -18,12 +18,12 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'keywords',
-        content: 'aboelkassem,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS',
+        content: 'aboelkassem,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.com,aboelkassem com,abo_elkassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,beni suef,Beni-Suef,egypt',
     });
 
     head.meta.push({
         name: 'description',
-        content: 'aboelkassem',
+        content: 'Mohamed Abdelrahman is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions and specializes in developing high-quality web applications',
     });
 
     head.meta.push({
@@ -43,7 +43,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:description',
-        content: 'Join a group. Or host a group. Or just listen. Enjoy music & request songs together while building a global community.',
+        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions and specializes in developing high-quality web applications',
     });
 
     head.meta.push({
@@ -78,7 +78,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:description',
-        content: 'aboelkassem | Software Developer',
+        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions and specializes in developing high-quality web applications',
     });
 
     head.meta.push({
@@ -93,7 +93,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:site_name',
-        content: 'Personal Website',
+        content: 'aboelkassem',
     });
 
     head.meta.push({

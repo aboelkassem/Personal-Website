@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'aboelkassem',
-  siteDescription: 'Personal site of Mohamed Abdelrahman',
+  siteDescription: 'Mohamed Abdelrahman is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions.',
   siteUrl: 'https://www.aboelkassem.com/',
   plugins: [
     {

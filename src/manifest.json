@@ -1,5 +1,5 @@
 {
-    "short_name": "aboelkassem Portfolio",
+    "short_name": "aboelkassem",
     "name": "aboelkassem Portfolio",
     "icons": [
       {
@@ -8,12 +8,12 @@
         "type": "image/x-icon"
       },
       {
-        "src": "/android-chrome-192x192.png?v8=qAJ44G5Bm7",
+        "src": "/favicon.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/android-chrome-384x384.png?v8=qAJ44G5Bm7",
+        "src": "/favicon.png",
         "type": "image/png",
         "sizes": "384x384"
       }
