@@ -486,7 +486,7 @@
 		<div class="overflow-x-hidden">
 			<div class="contact-me bg-background-secondary pt-16">
 				<div class="container-inner mx-auto text-xl pb-4 relative">
-					<h2 class="font-bold mb-6" id="contact">Contact me:</h2>
+					<h2 class="font-bold mb-6" id="contact">Get In Touch:</h2>
 
 					<div
 						class="absolute right-0 top-0"
@@ -498,15 +498,18 @@
 					</div>
 
 					<p class="my-8">
-						Want to chat about anything ranging from marine life to
-						custom hooks in React? Ping me anytime on
-						<a href="https://twitter.com/aboel_kassem">Twitter</a>.
+						Feel free to reach out to discuss a project or job opportunity.
 					</p>
 
 					<p class="my-8">
-						Or, if you want to begin a formal conversation, you can
-						easily fill up the form below and I'll reach out
-						personally within 24 hours. Pinky promise.
+						If you want to chat about anything? Ping me anytime on
+						<a href="https://twitter.com/aboel_kassem">Twitter</a>. I’m also on <a href="https://github.com/aboelkassem">Github</a>, and <a href="https://www.linkedin.com/in/aboelkassem">Linkedin</a> if you’re into that sort of thing.
+					</p>
+
+
+					<p class="my-8">
+						Or, you can
+						easily fill up the form below and send me an email, to talk about a project collaboration, or just say hi, I'd love to hear from you.
 					</p>
 
 					<div class="text-lg sm:text-lg mb-16">
@@ -528,7 +531,7 @@
 										type="text"
 										name="name"
 										id="name"
-										placeholder="Jon Snow"
+										placeholder="Full Name"
 										class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4"
 										required
 									/>
