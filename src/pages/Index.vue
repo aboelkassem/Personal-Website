@@ -219,14 +219,14 @@
 				<div
 					class="flex flex-col sm:flex-row justify-between items-center mb-16"
 				>
-					<div class="w-6/12">
+					<div class="xs:w-full sm:w-6/12">
 						<h1 class="text-4xl">What I do?</h1>
 						<p class="text-xl" style="text-indent: 10px;">Software Developer that is rapidly growing and expanding his knowledge.</p>
 						<p>⚡ Developing highly Back End systems for web applications.</p>
 						<p>⚡ Designing and implementing APIs for web and mobile applications.</p>
 						<p>⚡ Coding Front End / User Interfaces using Angular and other integrating third party services.</p>
 					</div>
-					<div class="flex-1 text-lg sm:text-xl ml-6">
+					<div class="flex-1 text-lg sm:text-xl sm:ml-6 xs:mt-7">
 						<ul class="flex flex-wrap ml-8 text-base ml-auto">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="ml-8 mb-8">
@@ -451,7 +451,7 @@
 					codeLink="https://github.com/aboelkassem/Listify"
 					imgCoverUrl="/listify.png"
 					description="A video, music sharing and streaming experience platform based on ASP.NET Core and Angular."
-					v-bind:tools="['ASP.NET Core','Angular','IdentityServer4', 'SignalR', 'Jira','Paypal','Youtube', 'Spotify']"
+					v-bind:tools="['ASP.NET Core','Angular','SignalR', 'IdentityServer4', 'Jira', 'Paypal', 'Youtube', 'Spotify']"
 				/>
 				<ProjectCard
 					projectName="ChattingApp"
@@ -460,7 +460,7 @@
 					codeLink="https://github.com/aboelkassem/ChattingApp"
 					imgCoverUrl="/chattingapp.png"
 					description="A real-time messaging and dating application build with ASP.NET Core and Angular."
-					v-bind:tools="['hey','hello',3, 4]"
+					v-bind:tools="['ASP.NET Core','Angular', 'SQllite', 'AutoMapper', 'JwtToken', 'alertifyjs', 'Cloudinary']"
 				/>
 				<ProjectCard
 					projectName="Foods"
@@ -469,7 +469,7 @@
 					codeLink="https://github.com/aboelkassem/Foods_Restaurant"
 					imgCoverUrl="/foods.png"
 					description="A restaurant management system that enable customers to order food online and get delivered."
-					v-bind:tools="['hey','hello',3, 4]"
+					v-bind:tools="['ASP.NET Core','EntityFramework Core', 'MSSQL', 'jQuery', 'AJAX', 'toastr', 'Stripe', 'SendGrid']"
 				/>
 				<ProjectCard
 					projectName="Library"
@@ -478,7 +478,7 @@
 					codeLink="https://github.com/aboelkassem/Library_WebApplication"
 					imgCoverUrl="/library.png"
 					description="A library managment system for uploading, downloading and browsing books based on ASP.NET MVC."
-					v-bind:tools="['hey','hello',3, 4]"
+					v-bind:tools="['ASP.NET MVC','EntityFramework 6', 'MSSQL', 'AJAX']"
 				/>
 			</ul>
 		</div>
