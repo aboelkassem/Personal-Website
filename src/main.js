@@ -152,7 +152,7 @@ export default function(Vue, { router, head, isClient }) {
     });
 
     head.script.push({
-        src: '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153855958-2"></script>',
+        src: 'https://www.googletagmanager.com/gtag/js?id=UA-153855958-2',
         body: true,
     })
 
