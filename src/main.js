@@ -18,7 +18,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'keywords',
-        content: 'aboelkassem,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.com,aboelkassem com,abo_elkassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,beni suef,Beni-Suef,egypt',
+        content: 'aboelkassem,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.com,aboelkassem com,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,beni suef,Beni-Suef,egypt',
     });
 
     head.meta.push({
