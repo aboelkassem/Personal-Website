@@ -7,15 +7,15 @@
 			<nav
 				class="container mx-auto flex flex-wrap justify-between items-center py-8"
 			>
-				<div>
+				<div class="xs:w-10/12">
 					<g-link v-if="theme === 'theme-light'" to="/"
-						><g-image src="/logo.png" class="w-1/4 lg:ml-20" alt="logo"
+						><g-image src="/logo.png" class="sm:w-1/4 lg:w-1/5 xs:w-2/4 lg:ml-20" alt="logo"
 					/></g-link>
 					<g-link v-else to="/"
-						><g-image src="/logo.png" class="w-1/4 lg:ml-20" alt="logo"
+						><g-image src="/logo.png" class="sm:w-1/4 lg:w-1/5 xs:w-2/4 lg:ml-20" alt="logo"
 					/></g-link>
 				</div>
-				<div class="absolute block lg:hidden" style="right: 50px;">
+				<div class="block lg:hidden" style="right: 50px;">
 					<button
 						@click="toggle"
 						class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600"
@@ -34,7 +34,7 @@
 					</button>
 				</div>
 				<ul
-					class="absolute uppercase tracking-wide font-bold w-full block flex-grow lg:space-x-8 space-y-6 lg:space-y-0 lg:flex lg:flex-initial lg:w-auto items-center mt-8 lg:mt-0"
+					class="lg:absolute md:sticky uppercase tracking-wide font-bold w-full block flex-grow lg:space-x-8 space-y-6 lg:space-y-0 lg:flex lg:flex-initial lg:w-auto items-center mt-8 lg:mt-0"
 					:class="isOpen ? 'block' : 'hidden'"
 					data-cypress="menu"
 					style="right: 50px;"

@@ -73,12 +73,12 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:title',
-        content: 'aboelkassem |Software Developer',
+        content: 'aboelkassem | Software Developer',
     });
 
     head.meta.push({
         name: 'og:description',
-        content: 'aboelkassem |Software Developer',
+        content: 'aboelkassem | Software Developer',
     });
 
     head.meta.push({
@@ -138,17 +138,17 @@ export default function(Vue, { router, head, isClient }) {
 
     head.link.push({
         rel: 'icon',
-        href: '/favicon-16x16.png',
+        href: '/favicon.png',
     });
 
     head.link.push({
         rel: 'shortcut icon',
-        href: '/favicon-16x16.png',
+        href: '/favicon.png',
     });
 
     head.link.push({
         rel: 'manifest',
-        href: '/src/manifest.json',
+        href: '/manifest.json',
     });
 
     head.script.push({

@@ -163,7 +163,7 @@
 				<g-image
 					width="20px"
                     height="20px"
-					class="my-6 w-3/12"
+					class="my-6 xs:w-5/12 md:w-3/12"
 					id="education"
                     alt="education"
 					src="/education.svg"
@@ -207,7 +207,7 @@
 				<g-image
 					width="20px"
                     height="20px"
-					class="w-1/5"
+					class="xs:my-6 lg:my-0 xs:w-5/12 md:w-1/5"
 					id="skills"
                     alt="skills"
 					src="/skills.svg"
