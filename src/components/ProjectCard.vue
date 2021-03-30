@@ -32,7 +32,7 @@
 			<div class="p-3 flex flex-col space-y-4">
 				<div class="flex-1  space-y-2">
 					<div class="flex flex-wrap space-x-2">
-						<div v-for="tool in tools" :key="tool" style="padding-top: 0.2em; padding-bottom: 0.2rem" class="flex flex-initial items-center space-x-1 text-sm px-2 my-0.5 ml-2 bg-gray-200 text-gray-800 rounded-full">
+						<div v-for="tool in tools" :key="tool" style="padding-top: 0.2em; padding-bottom: 0.2rem; margin-bottom: 5px;" class="flex flex-initial items-center space-x-1 text-sm px-2 ml-2 bg-gray-200 text-gray-800 rounded-full">
 							<div style="width: 0.4rem; height: 0.4rem" class="bg-gray-500 rounded-full"></div>
 							<div>{{ tool }}</div>
 						</div>
