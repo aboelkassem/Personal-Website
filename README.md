@@ -15,8 +15,8 @@ Tech stack used: [GridSome](https://gridsome.org), Vue JS, and hosted on [Netlif
 
 ## Environment Variables
 
-* GTM_ID        # Google Tag Manager ID
-* GTAGJS_ID     # Google Analytics ID
+* `GTM_ID`         Google Tag Manager ID
+* `GTAGJS_ID`      Google Analytics ID
 
 ## Available NPM Commands
 
