@@ -220,7 +220,7 @@
 					class="flex flex-col sm:flex-row justify-between items-center mb-16"
 				>
 					<div class="xs:w-full sm:w-6/12">
-						<h1 class="text-4xl">What I do?</h1>
+						<h2 class="text-4xl">What I do?</h2>
 						<p class="text-xl" style="text-indent: 10px;">Software Developer that is rapidly growing and expanding his knowledge.</p>
 						<p>⚡ Developing highly Back End systems for web applications.</p>
 						<p>⚡ Designing and implementing APIs for web and mobile applications.</p>

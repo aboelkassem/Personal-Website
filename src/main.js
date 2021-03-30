@@ -18,13 +18,13 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'keywords',
-        content: 'aboelkassem,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.com,aboelkassem com,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,beni suef,Beni-Suef,egypt',
+        content: 'aboelkassem,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.com,aboelkassem com,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt',
     });
 
-    head.meta.push({
-        name: 'description',
-        content: 'Mohamed Abdelrahman is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions and specializes in developing high-quality web applications',
-    });
+    // head.meta.push({
+    //     name: 'description',
+    //     content: 'Mohamed Abdelrahman is a computer science student and passionate software engineer based in Egypt who love the tech industry, problem solving, and open source contributions. He specializes in developing high-quality web applications',
+    // });
 
     head.meta.push({
         name: 'author',
@@ -43,7 +43,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:description',
-        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions and specializes in developing high-quality web applications',
+        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who love the tech industry, problem solving, and open source contributions. He specializes in developing high-quality web applications',
     });
 
     head.meta.push({
@@ -123,7 +123,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'canonical',
-        content: 'https://aboelkassem.com/',
+        content: 'https://aboelkassem.com',
     });
 
     head.meta.push({
@@ -138,26 +138,11 @@ export default function(Vue, { router, head, isClient }) {
 
     head.link.push({
         rel: 'icon',
-        href: '/favicon.png',
+        href: './src/favicon.png',
     });
 
     head.link.push({
         rel: 'shortcut icon',
-        href: '/favicon.png',
+        href: './src/favicon.png',
     });
-
-    head.link.push({
-        rel: 'manifest',
-        href: '/manifest.json',
-    });
-
-    head.script.push({
-        src: 'https://www.googletagmanager.com/gtag/js?id=UA-153855958-2',
-        body: true,
-    })
-
-    head.script.push({
-        src: '/js/app.js',
-        body: true
-    })
 }

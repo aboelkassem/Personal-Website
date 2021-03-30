@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'aboelkassem',
-  siteDescription: 'Mohamed Abdelrahman is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions.',
+  siteDescription: 'Mohamed Abdelrahman (@aboelkassem) is a computer science student and passionate software engineer based in Egypt who love the tech industry, problem solving, and open source contributions. He specializes in developing high-quality web applications',
   siteUrl: 'https://www.aboelkassem.com/',
   plugins: [
     {
@@ -52,6 +52,23 @@ module.exports = {
       options: {
         cacheTime: 600000, // default
       }
+    },
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-153855958-2'
+      }
+    },
+    {
+      use: "gridsome-plugin-manifest",
+      options: {
+        background_color: "#000000",
+        icon_path: "./src/favicon.png",
+        name: "aboelkassem Portfolio",
+        short_name: "aboelkassem",
+        theme_color: "#FFFFFF",
+        lang: "en",
+      },
     },
   ],
   templates: {
