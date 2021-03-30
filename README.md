@@ -7,11 +7,11 @@ Tech stack used: [GridSome](https://gridsome.org), Vue JS, and hosted on [Netlif
 ## Features
 * Speed and Performance
 * Support Dark Mode
-* Responsive design for differen screens
+* Responsive design for different screens
 * SEO Friendly(Slugs, Sitemap, Schemas, Robots.txt, Meta Tags, GTM etc.)
 * Tags and RSS Feed
 * Medium like progressive image loading
-* Easy deploy in different platforms such as Netlify, Vercel etc.
+* Easy deployment in different platforms such as Netlify, Vercel etc.
 
 ## Environment Variables
 
