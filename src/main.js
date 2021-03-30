@@ -138,11 +138,11 @@ export default function(Vue, { router, head, isClient }) {
 
     head.link.push({
         rel: 'icon',
-        href: './src/favicon.png',
+        href: '/favicon.png',
     });
 
     head.link.push({
         rel: 'shortcut icon',
-        href: './src/favicon.png',
+        href: '/favicon.png',
     });
 }
