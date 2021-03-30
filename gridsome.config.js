@@ -70,6 +70,14 @@ module.exports = {
         lang: "en",
       },
     },
+    {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-57J8VXW',
+        enabled: true,
+        debug: true
+      }
+    },
   ],
   templates: {
     Tag: '/tag/:id'
