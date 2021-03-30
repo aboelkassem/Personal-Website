@@ -446,7 +446,7 @@
 			<ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
 				<ProjectCard
 					projectName="Listify"
-					imgUrl="/aaise.svg"
+					imgUrl="/aaise.png"
 					liveLink="https://youtu.be/NlUXDOMyAPM"
 					codeLink="https://github.com/aboelkassem/Listify"
 					imgCoverUrl="/listify.png"
@@ -455,7 +455,7 @@
 				/>
 				<ProjectCard
 					projectName="ChattingApp"
-					imgUrl="/aaseh.svg"
+					imgUrl="/aaseh.png"
 					liveLink="https://chatting-apps.herokuapp.com"
 					codeLink="https://github.com/aboelkassem/ChattingApp"
 					imgCoverUrl="/chattingapp.png"
@@ -464,7 +464,7 @@
 				/>
 				<ProjectCard
 					projectName="Foods"
-					imgUrl="/asejb.svg"
+					imgUrl="/asejb.png"
 					liveLink="https://f00ds.herokuapp.com"
 					codeLink="https://github.com/aboelkassem/Foods_Restaurant"
 					imgCoverUrl="/foods.png"
@@ -473,7 +473,7 @@
 				/>
 				<ProjectCard
 					projectName="Library"
-					imgUrl="/aes.svg"
+					imgUrl="/aes.png"
 					liveLink="http://library.somee.com"
 					codeLink="https://github.com/aboelkassem/Library_WebApplication"
 					imgCoverUrl="/library.png"
