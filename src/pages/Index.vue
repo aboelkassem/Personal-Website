@@ -594,7 +594,7 @@ import ProjectCard from '../components/ProjectCard';
 
 export default {
 	metaInfo: {
-		title: 'Home',
+		title: 'Software Developer',
 	},
 	components: {
 		ProjectCard,

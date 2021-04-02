@@ -38,22 +38,22 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:creator',
-        content: '@abo_elkassem',
+        content: '@aboel_kassem',
     });
 
     head.meta.push({
         name: 'twitter:description',
-        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who love the tech industry, problem solving, and open source contributions. He specializes in developing high-quality web applications',
+        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who love the tech-industry, problem-solving, and open source contributions. He specializes in developing high-quality web applications',
     });
 
     head.meta.push({
         name: 'twitter:site',
-        content: '@abo_elkassem',
+        content: '@aboel_kassem',
     });
 
     head.meta.push({
         name: 'twitter:title',
-        content: 'aboelkassem',
+        content: 'aboelkassem | Software Developer',
     });
 
     head.meta.push({
@@ -78,7 +78,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:description',
-        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who loving the tech industry, problem solving, open source contributions and specializes in developing high-quality web applications',
+        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who love the tech industry, problem-solving, open-source contributions and specializes in developing high-quality web applications',
     });
 
     head.meta.push({
@@ -88,7 +88,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:url',
-        content: 'https://www.aboelkassem.com/',
+        content: 'https://www.aboelkassem.com',
     });
 
     head.meta.push({
