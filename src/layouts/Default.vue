@@ -152,7 +152,7 @@
 					<li>
 						<a
 							aria-label="mail icon"
-							href="mailto:mohamedabdelrahman972@gmail.com"
+							href="mailto:aboelkassem.me@gmail.com"
 							class="text-white hover:text-gray-400"
 						>
 							<svg
