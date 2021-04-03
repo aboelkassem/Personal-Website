@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'aboelkassem',
   siteDescription: 'Mohamed Abdelrahman (@aboelkassem) is a CS student and software engineer who loves the tech industry, problem solving, and open source contributions.',
-  siteUrl: 'https://www.aboelkassem.com/',
+  siteUrl: 'https://www.aboelkassem.com',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -51,6 +51,12 @@ module.exports = {
       use: '@gridsome/plugin-sitemap',
       options: {
         cacheTime: 600000, // default
+        config: {
+          '/*': {
+            changefreq: 'weekly',
+            priority: 0.5
+          }
+        }
       }
     },
     {
@@ -76,6 +82,28 @@ module.exports = {
         id: 'GTM-57J8VXW',
         enabled: true,
         debug: true
+      }
+    },
+    {
+      use: 'gridsome-plugin-robots-txt',
+      options: {
+        host: 'https://www.aboelkassem.com',
+        sitemap: 'https://www.aboelkassem.com/sitemap.xml',
+        policy: [
+          {
+            userAgent: "Googlebot",
+            allow: "/",
+            disallow: "/search",
+            crawlDelay: 2
+          },
+          {
+            userAgent: "*",
+            allow: "/",
+            disallow: "/search",
+            crawlDelay: 10,
+            cleanParam: "ref /articles/"
+          }
+        ]
       }
     },
   ],

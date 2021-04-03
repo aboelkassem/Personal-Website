@@ -15,6 +15,7 @@
         "gridsome": "^0.7.21",
         "gridsome-plugin-gtm": "^0.1.1",
         "gridsome-plugin-remark-shiki": "^0.5.0",
+        "gridsome-plugin-robots-txt": "^1.0.2",
         "gridsome-plugin-rss": "^1.2.0",
         "vue-scrollto": "^2.20.0",
         "vue-typed-js": "^0.1.2"
