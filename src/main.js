@@ -53,7 +53,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:title',
-        content: 'aboelkassem | Software Developer',
+        content: 'Software Developer| aboelkassem',
     });
 
     head.meta.push({
@@ -73,7 +73,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:title',
-        content: 'aboelkassem | Software Developer',
+        content: 'Software Developer| aboelkassem',
     });
 
     head.meta.push({
@@ -145,4 +145,11 @@ export default function(Vue, { router, head, isClient }) {
         rel: 'shortcut icon',
         href: '/favicon.ico',
     });
+
+    head.script.push({
+        type: "text/javascript",
+        "data-ad-client": "ca-pub-1672384345508414",
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        async: true
+      });
 }
