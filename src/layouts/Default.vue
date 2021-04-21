@@ -49,13 +49,13 @@
 					<li>
 						<a
 							v-if="$route.path === '/'"
-							href="https://blog.aboelkassem.com/" target="_blank"
+							href="https://blog.aboelkassem.me/" target="_blank"
 							class="text-copy-primary hover:text-gray-600"
 							>Blog</a
 						>
 						<g-link
 							v-else
-							to="https://blog.aboelkassem.com/"
+							to="https://blog.aboelkassem.me/"
 							target="_blank"
 							class="text-copy-primary hover:text-gray-600"
 							>Blog</g-link
@@ -152,7 +152,7 @@
 					<li>
 						<a
 							aria-label="mail icon"
-							href="mailto:aboelkassem.me@gmail.com"
+							href="mailto:contact@aboelkassem.me"
 							class="text-white hover:text-gray-400"
 						>
 							<svg

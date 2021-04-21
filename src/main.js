@@ -18,7 +18,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'keywords',
-        content: 'aboelkassem,ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.com,aboelkassem com,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt',
+        content: 'aboelkassem,ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.me,aboelkassem me,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt',
     });
 
     // head.meta.push({
@@ -63,7 +63,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:url',
-        content: 'https://www.aboelkassem.com',
+        content: 'https://www.aboelkassem.me',
     });
     
     head.meta.push({
@@ -88,7 +88,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:url',
-        content: 'https://www.aboelkassem.com',
+        content: 'https://www.aboelkassem.me',
     });
 
     head.meta.push({
@@ -118,12 +118,12 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:image:alt',
-        content: 'aboelkassem.com',
+        content: 'aboelkassem.me',
     });
 
     head.meta.push({
         name: 'canonical',
-        content: 'https://aboelkassem.com',
+        content: 'https://aboelkassem.me',
     });
 
     head.meta.push({
