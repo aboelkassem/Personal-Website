@@ -67,7 +67,7 @@
 				>
 				<a
 					class="inline-block bg-background-secondary button py-2 px-3 mx-1 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
-					href="mailto:contact@aboelkassem.me"
+					href="mailto:aboelkassem.me@gmail.com"
 					>
 					<svg
 						width="25"
