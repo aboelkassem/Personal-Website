@@ -477,8 +477,17 @@
 					liveLink="http://library.somee.com"
 					codeLink="https://github.com/aboelkassem/Library_WebApplication"
 					imgCoverUrl="/library.png"
-					description="A library managment system for uploading, downloading and browsing books based on ASP.NET MVC."
+					description="A library managment system for uploading, downloading and browsing books based on ASP.NET"
 					v-bind:tools="['ASP.NET MVC','EntityFramework 6', 'MSSQL', 'AJAX']"
+				/>
+				<ProjectCard
+					projectName="Blog"
+					imgUrl="/gn.png"
+					liveLink="https://blog.aboelkassem.me"
+					codeLink="https://github.com/aboelkassem/blog"
+					imgCoverUrl="/blog.png"
+					description="My personal blog where to share my thoughts and technical articles...built using Gatsby and Netlify CMS"
+					v-bind:tools="['Gatsby','Netlify CMS', 'React', 'DISQUS']"
 				/>
 			</ul>
 		</div>
