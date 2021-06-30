@@ -87,9 +87,9 @@
 			<g-image
 				width="20px"
                 height="20px"
-				src="/developer.svg"
+				src="/aboelkassem.jpg"
 				alt="hero"
-				class="mx-auto sm:mx-0 md:w-2/4 sm:w-2/5 md:pl-16 md:pb-16"
+				class="rounded-full items-center justify-center mx-auto sm:mx-0 md:w-2/4 sm:w-2/5 md:pl-16 md:pb-16"
 			/>
 		</div>
 
@@ -126,7 +126,7 @@
 							class="w-64 h-full mb-8 lg:mb-0"
 						/>
 					</div>
-					<div class="flex-1 text-lg sm:text-xl ml-6">
+					<div class="bg-background-tertiary flex-1 text-lg sm:text-xl ml-6">
 						<p class="m-8">
 							Hi, I'm Mohamed abdelrahman, a Junior at the Beni-Suef University studying Software Engineering, 
 							and a passionate self-taught software developer from Egypt.
@@ -219,7 +219,7 @@
 				<div
 					class="flex flex-col sm:flex-row justify-between items-center mb-16"
 				>
-					<div class="xs:w-full sm:w-6/12">
+					<div class="bg-background-tertiary xs:w-full sm:w-6/12">
 						<h2 class="text-4xl">What I do?</h2>
 						<p class="text-xl" style="text-indent: 10px;">Software Developer that is rapidly growing and expanding his knowledge.</p>
 						<p>⚡ Developing highly Back End systems for web applications.</p>
@@ -456,7 +456,7 @@
 				<ProjectCard
 					projectName="ChattingApp"
 					imgUrl="/aaseh.png"
-					liveLink="https://chatting-apps.herokuapp.com"
+					liveLink="https://chatting.aboelkassem.me"
 					codeLink="https://github.com/aboelkassem/ChattingApp"
 					imgCoverUrl="/chattingapp.png"
 					description="A real-time messaging and dating application build with ASP.NET Core and Angular."
@@ -465,7 +465,7 @@
 				<ProjectCard
 					projectName="Foods"
 					imgUrl="/asejb.png"
-					liveLink="https://f00ds.herokuapp.com"
+					liveLink="https://foods.aboelkassem.me"
 					codeLink="https://github.com/aboelkassem/Foods_Restaurant"
 					imgCoverUrl="/foods.png"
 					description="A restaurant management system that enable customers to order food online and get delivered."
