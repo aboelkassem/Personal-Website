@@ -128,7 +128,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'google-site-verification',
-        content: 'xg4ctI6bmMqXQoOhJwwZjL8Tq8GYcJPS2Uh0Xgw2oiQ',
+        content: 'aIHfTlNe5H8jfwFrxkQfXVQ5aOCfz0EdqO6o140ED44',
     });
 
     head.link.push({
