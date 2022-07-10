@@ -171,6 +171,62 @@
 					width="20px"
                     height="20px"
 					class="my-6 xs:w-5/12 md:w-3/12"
+					id="work-experience"
+                    alt="work-experience"
+					src="/work-experience.svg"
+				/>
+
+				<div
+					class="d-flex flex-col sm:flex-row justify-between items-center mb-16"
+				>
+					<div class="mb-5">
+						<div class="d-flex justify-content-between">
+							<div class="float-left"><a href="https://silverkeytech.com">SilverKey Technologies</a> - Software Engineer</div>
+							<div class="float-right">October 2021 – Present</div>
+						</div>
+						<br>
+						<ul class="ml-5">
+							<li>- Develop and build large-scale web applications using C#, Dotnet Core, Blazor, Vuejs, PostgreSQL, and WCF SOAP.</li>
+							<li>- Work on many governmental and private business projects for different sectors.</li>
+							<li>- Analyze business requirements for different projects.</li>
+							<li>- Implement complex business solutions with modular system architectures.</li>
+							<li>- Research new technologies that solve business needs.</li>
+							<li>- Work on phase 2 of developing a monitor digital system for the Ministry of Education and Technical Education (<strong>MoETE</strong>) and in partnership with <strong>GIZ</strong>.</li>
+						</ul>
+					</div>
+					<div class="mb-5">
+						<div class="d-flex justify-content-between">
+							<div class="float-left"><a href="https://silverkeytech.com">SilverKey Technologies</a> - Software Engineer Intern</div>
+							<div class="float-right">July 2021 – October 2021</div>
+						</div>
+						<br>
+						<ul class="ml-5">
+							<li>- Built a Pizza ordering App for training on new .NET tools such as C# 10, ASP.NET Core 6.0, Minimal APIs.</li>
+							<li>- Research new technologies such as LLBLGen ORM, Vuejs, FluentMigrator, PosgreSQL, MediatR and CQRS Pattern.</li>
+							<li>- Learned about the software quality, development model, and database design.</li>
+							<li>- Worked on developing new features, debugging, and fixing bugs for the employment system called Labour Market Access (<strong>LMAP</strong>) in partnership with <strong>GIZ</strong>.</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<g-image
+			width="20px"
+            height="20px"
+			class="mx-auto"
+			alt="arrow towards bio"
+			src="/arrow1.svg"
+		></g-image>
+
+		<div class="border-gray-200">
+			<div
+				class="get-to-know-me container-inner mx-auto text-xl relative"
+			>
+				<g-image
+					width="20px"
+                    height="20px"
+					class="my-6 xs:w-5/12 md:w-3/12"
 					id="education"
                     alt="education"
 					src="/education.svg"

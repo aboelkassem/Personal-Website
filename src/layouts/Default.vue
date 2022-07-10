@@ -64,6 +64,22 @@
 					<li>
 						<a
 							v-if="$route.path === '/'"
+							href="/#work-experience"
+							v-scroll-to="'#work-experience'"
+							class="text-copy-primary hover:text-gray-600"
+							data-cypress="work-experience"
+							>Work Experience</a
+						>
+						<g-link
+							v-else
+							to="/#work-experience"
+							class="text-copy-primary hover:text-gray-600"
+							>work-experience</g-link
+						>
+					</li>
+					<li>
+						<a
+							v-if="$route.path === '/'"
 							href="/#projects"
 							v-scroll-to="'#projects'"
 							class="text-copy-primary hover:text-gray-600"
