@@ -12,7 +12,7 @@
 				<div class="leading-tight">I’m Mohamed Abdelrahman</div>
 
 				<div class="pt-2 text-2xl text-blue-400 leading-tight">
-					<vue-typed-js :strings="['Full Stack web developer', 'Software Developer', 'Open Source Contributor', 'Back-End Developer']" :loop="true" :typeSpeed="30">
+					<vue-typed-js :strings="['Full Stack web developer', 'Software Engineer', 'Open Source Contributor', 'Back-End Developer']" :loop="true" :typeSpeed="30">
 						<h1>I'm a <span class="typing"></span></h1>
 					</vue-typed-js>
 				</div>
@@ -128,18 +128,22 @@
 					</div>
 					<div class="bg-background-tertiary flex-1 text-lg sm:text-xl ml-6">
 						<p class="m-8">
-							Hi, I'm Mohamed abdelrahman, a Junior at the Beni-Suef University studying Software Engineering, 
+							Hi, I'm Mohamed Abdelrahman, a Software Developer at <a href="https://silverkeytech.com">SilverKey Technologies</a>, 
 							and a passionate self-taught software developer from Egypt.
 						</p>
 
 						<p class="m-8">
 							I spend a lot of my development time contributing to open-source projects.
-							Most of it started by myself which can be found from my GitHub profile.
+							Most of it started by myself which can be found from my GitHub profile. I'm also spending a lot of time blogging at <a href="https://blog.aboelkassem.me">blog.aboelkassem.me</a>.
 						</p>
 
 						<p class="m-8">
 							As a software engineer, I enjoy working on full-stack projects. 
-							I specialize in C# and enjoy using Microsoft tecnhologies such as .NET Framework and .NET Core, ASP.NET, MVC,  Web API, Angular, JavaScript, Typescript, and SQL databases to create projects. I also have experience using Java, SignalR, and xUnit.
+							I specialize in C# and enjoy using Microsoft technologies such as .NET Framework and .NET Core, ASP.NET, MVC,  Web API, Blazor. In addition to write JavaScript and Typescript with Vuejs and Angular, and SQL databases to create projects. I also have doing staff using Java, LLBLGen ORM, SignalR, and xUnit.
+						</p>
+
+						<p class="m-8">
+							I have some extra experience in Machine learning and Data Science specially within Computer Vision area. Since I have done some deep learning projects using Tensorflow, Keras and integrate them with Flask. 
 						</p>
 
 						<p class="m-8">
@@ -193,10 +197,12 @@
 							Bachelor of Science, <b>Major</b> Computer Science
 						</p>
 
-						<ul class="ml-8 text-base">
-							<li class="text-center">Sept 2018- Present</li>
+						<ul class="ml-8 lead">
+							<li class="text-center">Sept 2018 - July 2022</li>
 							<li class="text-gray-600">Beni Suef, Egypt</li>
-							<li>Cumulative GPA: 3.3/4.0</li>
+							<li><strong>Cumulative GPA:</strong> 3.3/4.0</li>
+							<li><strong>Graduation Project: </strong><a href="https://github.com/space-codes/asar.core">ASAR</a> (Arabic Manuscript Analysis and Recognition system) is an intelligent system that provides
+							digitizing services for historical Arabic manuscripts images by converting the complex Arabic text images to digital text by using word spotting and pattern recognition techniques.</li>
 						</ul>
 					</div>
 				</div>
@@ -222,38 +228,12 @@
 					<div class="bg-background-tertiary xs:w-full sm:w-6/12">
 						<h2 class="text-4xl">What I do?</h2>
 						<p class="text-xl" style="text-indent: 10px;">Software Developer that is rapidly growing and expanding his knowledge.</p>
-						<p>⚡ Developing highly Back End systems for web applications.</p>
-						<p>⚡ Designing and implementing APIs for web and mobile applications.</p>
-						<p>⚡ Coding Front End / User Interfaces using Angular and other integrating third party services.</p>
+						<p>⚡ Developing highly back end systems for web applications.</p>
+						<p>⚡ Designing and implementing APIs and web services for web and mobile applications.</p>
+						<p>⚡ Coding Front End / User Interfaces using Blazor, Vue, Angular and other integrating third party services.</p>
 					</div>
 					<div class="flex-1 text-lg sm:text-xl sm:ml-6 xs:mt-7">
 						<ul class="flex flex-wrap ml-8 text-base ml-auto">
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
-								<div class="ml-8 mb-8">
-									<g-image
-										width="20px"
-										height="20px"
-										src="/html.svg"
-										id="html"
-										alt="html icon"
-										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
-									/>
-									<p class="truncate font-semibold text-center">HTML</p>
-								</div>
-							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
-								<div class="ml-8 mb-8">
-									<g-image
-										width="20px"
-										height="20px"
-										src="/css.svg"
-										id="css"
-										alt="css icon"
-										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
-									/>
-									<p class="truncate font-semibold text-center">CSS</p>
-								</div>
-							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="ml-8 mb-8">
 									<g-image
@@ -265,45 +245,6 @@
 										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
 									/>
 									<p class="truncate font-semibold text-center">C#</p>
-								</div>
-							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
-								<div class="ml-8 mb-8">
-									<g-image
-										width="20px"
-										height="20px"
-										src="/java.svg"
-										id="java"
-										alt="java icon"
-										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
-									/>
-									<p class="truncate font-semibold text-center">Java</p>
-								</div>
-							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
-								<div class="ml-8 mb-8">
-									<g-image
-										width="20px"
-										height="20px"
-										src="/javascript.svg"
-										id="javascript"
-										alt="javascript icon"
-										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
-									/>
-									<p class="truncate font-semibold text-center">Javascript</p>
-								</div>
-							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
-								<div class="ml-8 mb-8">
-									<g-image
-										width="20px"
-										height="20px"
-										src="/typescript.svg"
-										id="typescript"
-										alt="typescript icon"
-										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
-									/>
-									<p class="truncate font-semibold text-center">Typescript</p>
 								</div>
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
@@ -337,6 +278,45 @@
 									<g-image
 										width="20px"
 										height="20px"
+										src="/blazor.svg"
+										id="blazor"
+										alt="blazor icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">Blazor</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/javascript.svg"
+										id="javascript"
+										alt="javascript icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">Javascript</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/typescript.svg"
+										id="typescript"
+										alt="typescript icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">Typescript</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
 										src="/angular.svg"
 										id="angular"
 										alt="angular icon"
@@ -350,12 +330,12 @@
 									<g-image
 										width="20px"
 										height="20px"
-										src="/jquery.svg"
-										id="jquery"
-										alt="jquery icon"
+										src="/vue-9.svg"
+										id="vue"
+										alt="vue icon"
 										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
 									/>
-									<p class="truncate font-semibold text-center">jQuery</p>
+									<p class="truncate font-semibold text-center">VueJs</p>
 								</div>
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
@@ -369,6 +349,19 @@
 										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
 									/>
 									<p class="truncate font-semibold text-center">SQL Server</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/postgresql.svg"
+										id="postgresql"
+										alt="postgresql icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">PostgreSQL</p>
 								</div>
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
@@ -408,6 +401,71 @@
 										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
 									/>
 									<p class="truncate font-semibold text-center">Docker</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/jquery.svg"
+										id="jquery"
+										alt="jquery icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">jQuery</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/html.svg"
+										id="html"
+										alt="html icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">HTML</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/css.svg"
+										id="css"
+										alt="css icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">CSS</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/flask.jpg"
+										id="flask"
+										alt="flask icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">Flask</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
+								<div class="ml-8 mb-8">
+									<g-image
+										width="20px"
+										height="20px"
+										src="/tensorflow-2.svg"
+										id="tensorflow"
+										alt="tensorflow icon"
+										class="mx-auto mb-1 sm:mx-0 border-2 border-blue-400 rounded-full p-1 w-full"
+									/>
+									<p class="truncate font-semibold text-center">Tensorflow</p>
 								</div>
 							</li>
 						</ul>
@@ -479,6 +537,15 @@
 					imgCoverUrl="/library.png"
 					description="A library managment system for uploading, downloading and browsing books based on ASP.NET"
 					v-bind:tools="['ASP.NET MVC','EntityFramework 6', 'MSSQL', 'AJAX']"
+				/>
+				<ProjectCard
+					projectName="Attendance System"
+					imgUrl="/tf.png"
+					liveLink="https://github.com/space-codes/attendance-system"
+					codeLink="https://github.com/space-codes/attendance-system"
+					imgCoverUrl="/attendance-system.jpg"
+					description="An Attendance system for students using Face Recognition with single trained image."
+					v-bind:tools="['Flask','Tensorflow', 'MTCNN', 'ResNet']"
 				/>
 				<ProjectCard
 					projectName="Blog"
