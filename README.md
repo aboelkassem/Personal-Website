@@ -12,6 +12,7 @@ Tech stack used: [GridSome](https://gridsome.org), Vue JS, and hosted on [Netlif
 * Tags and RSS Feed
 * Medium like progressive image loading
 * Easy deployment in different platforms such as Netlify, Vercel etc.
+* Used UI Framework TailwindCSS
 
 ## Environment Variables
 
@@ -28,7 +29,7 @@ npm install
 
 ### Develop
 
-Start a hot-reloading development environment accessible at `localhost:8081`
+Start a hot-reloading development environment accessible at `localhost:8080`
 
 ```shell
 gridsome develop
