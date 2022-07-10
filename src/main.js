@@ -18,7 +18,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'keywords',
-        content: 'aboelkassem,ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed,aboelkassem.me,aboelkassem me,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt',
+        content: 'aboelkassem,ابوالقاسم,محمد عبدالرحمن,Mohamed Abdelrahman,aboelkassem,Abo elkassem,Mohamed, aboelkassem.me,aboelkassem me,abo_elkassem,aboel_kassem,ab0elkassem,Aboelkassem77,mohamed aboelkassem,Mohamed Abdelrahman Aboelkassem,mohamed abdelrahman,back-end engineer, web developer, full stack developer,junior full stack developer,.Net developer,software engineer,software developer,aboelkassem developer,Portfolio,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Typescript,ASP.NET Core,Angular,Listify,SQL Server,github,code,software,open source,beni suef,Beni-Suef,egypt, silverkey, silverkeytech',
     });
 
     // head.meta.push({
@@ -43,7 +43,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:description',
-        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who love the tech-industry, problem-solving, and open source contributions. He specializes in developing high-quality web applications',
+        content: 'Mohamed Aboelkassem is a passionate software engineer based in Egypt who love the tech-industry, problem-solving, and open source contributions. He specializes in developing high-quality web applications',
     });
 
     head.meta.push({
@@ -78,7 +78,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:description',
-        content: 'aboelkassem is a computer science student and passionate software engineer based in Egypt who love the tech industry, problem-solving, open-source contributions and specializes in developing high-quality web applications',
+        content: 'Mohamed Aboelkassem is a passionate software engineer based in Egypt who love the tech industry, problem-solving, open-source contributions and specializes in developing high-quality web applications',
     });
 
     head.meta.push({

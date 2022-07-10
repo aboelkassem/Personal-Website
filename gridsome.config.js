@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'aboelkassem',
-  siteDescription: 'Mohamed Abdelrahman (@aboelkassem) is a CS student and software engineer who loves the tech industry, problem solving, and open source contributions.',
+  siteDescription: 'Mohamed Abdelrahman (@aboelkassem) is a software engineer who loves the tech industry, problem solving, and open source contributions.',
   siteUrl: 'https://www.aboelkassem.me',
   plugins: [
     {
@@ -30,14 +30,14 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'aboelkassem',
-          feed_url: 'https://www.aboelkassem.me//rss.xml',
-          site_url: 'https://www.aboelkassem.me/'
+          title: 'Aboelkassem portfolio',
+          feed_url: 'https://www.aboelkassem.me/rss.xml',
+          site_url: 'https://www.aboelkassem.me'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://www.aboelkassem.me/' + node.path,
+          url: 'https://blog.aboelkassem.me/' + node.slug,
           author: 'aboelkassem',
           date: node.date
         }),
@@ -53,7 +53,7 @@ module.exports = {
         cacheTime: 600000, // default
         config: {
           '/*': {
-            changefreq: 'weekly',
+            changefreq: 'daily',
             priority: 0.5
           }
         }
@@ -70,7 +70,7 @@ module.exports = {
       options: {
         background_color: "#000000",
         icon_path: "./src/favicon.png",
-        name: "aboelkassem Portfolio",
+        name: "Aboelkassem Portfolio",
         short_name: "aboelkassem",
         theme_color: "#FFFFFF",
         lang: "en",
