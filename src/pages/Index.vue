@@ -185,7 +185,7 @@
 							<div class="float-right">October 2021 – Present</div>
 						</div>
 						<br>
-						<ul class="ml-5">
+						<ul class="ml-5 bg-background-tertiary">
 							<li>- Develop and build large-scale web applications using C#, Dotnet Core, Blazor, Vuejs, PostgreSQL, and WCF SOAP.</li>
 							<li>- Work on many governmental and private business projects for different sectors.</li>
 							<li>- Analyze business requirements for different projects.</li>
@@ -200,7 +200,7 @@
 							<div class="float-right">July 2021 – October 2021</div>
 						</div>
 						<br>
-						<ul class="ml-5">
+						<ul class="ml-5 bg-background-tertiary">
 							<li>- Built a Pizza ordering App for training on new .NET tools such as C# 10, ASP.NET Core 6.0, Minimal APIs.</li>
 							<li>- Research new technologies such as LLBLGen ORM, Vuejs, FluentMigrator, PosgreSQL, MediatR and CQRS Pattern.</li>
 							<li>- Learned about the software quality, development model, and database design.</li>
@@ -253,7 +253,7 @@
 							Bachelor of Science, <b>Major</b> Computer Science
 						</p>
 
-						<ul class="ml-8 lead">
+						<ul class="ml-8 lead bg-background-tertiary">
 							<li class="text-center">Sept 2018 - July 2022</li>
 							<li class="text-gray-600">Beni Suef, Egypt</li>
 							<li><strong>Cumulative GPA:</strong> 3.3/4.0</li>
@@ -279,9 +279,9 @@
 				/>
 
 				<div
-					class="flex flex-col sm:flex-row justify-between items-center mb-16"
+					class="flex flex-col sm:flex-row justify-start mb-16"
 				>
-					<div class="bg-background-tertiary xs:w-full sm:w-6/12">
+					<div class="bg-background-tertiary xs:w-full sm:w-6/12" style="margin-top: 30px;">
 						<h2 class="text-4xl">What I do?</h2>
 						<p class="text-xl" style="text-indent: 10px;">Software Developer that is rapidly growing and expanding his knowledge.</p>
 						<p>⚡ Developing highly back end systems for web applications.</p>
@@ -545,7 +545,7 @@
 				src="/projects.svg"
 				id="projects"
 				alt="projects header"
-				class="mx-auto mb-12 sm:mx-0"
+				class="xs:my-10 lg:my-6 xs:w-5/12 md:w-1/5"
 			/>
 
 			<div

@@ -53,7 +53,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'twitter:title',
-        content: 'Software Developer| aboelkassem',
+        content: 'Software Developer| Mohamed Aboelkassem',
     });
 
     head.meta.push({
@@ -73,7 +73,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:title',
-        content: 'Software Developer| aboelkassem',
+        content: 'Software Developer| Mohamed Aboelkassem',
     });
 
     head.meta.push({
