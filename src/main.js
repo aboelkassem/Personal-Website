@@ -93,7 +93,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:site_name',
-        content: 'aboelkassem',
+        content: 'Mohamed Aboelkassem',
     });
 
     head.meta.push({
@@ -118,7 +118,7 @@ export default function(Vue, { router, head, isClient }) {
 
     head.meta.push({
         name: 'og:image:alt',
-        content: 'aboelkassem.me',
+        content: 'Mohamed Aboelkassem',
     });
 
     head.meta.push({
