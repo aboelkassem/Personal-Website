@@ -121,9 +121,9 @@
 						<g-image
 							width="20px"
                             height="20px"
-							src="/avatar.png"
+							src="/avatar.jpg"
 							alt="avatar"
-							class="w-64 h-full mb-8 lg:mb-0"
+							class="w-72 min-h-full mb-8 lg:mb-0 rounded-lg"
 						/>
 					</div>
 					<div class="bg-background-tertiary flex-1 text-lg sm:text-xl ml-6">
