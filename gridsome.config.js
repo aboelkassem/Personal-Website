@@ -5,65 +5,51 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Mohamed Aboelkassem',
-  siteDescription: 'Mohamed Abdelrahman (@aboelkassem) is a software engineer who loves the tech industry, problem solving, and open source contributions.',
-  siteUrl: 'https://www.aboelkassem.tech',
+  siteName: "Mohamed Aboelkassem",
+  siteDescription:
+    "Mohamed Abdelrahman (@aboelkassem) is a software engineer who loves the tech industry, problem solving, and open source contributions.",
+  siteUrl: "https://www.aboelkassem.tech",
   plugins: [
     {
-      use: 'gridsome-plugin-tailwindcss',
+      use: "gridsome-plugin-tailwindcss",
     },
     {
-      use: '@gridsome/source-filesystem',
+      use: "@gridsome/source-filesystem",
       options: {
-        path: 'blog/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            create: true
-          }
-        }
-      }
+        path: "blog/**/*.md",
+        typeName: "Post",
+        refs: { tags: { typeName: "Tag", create: true } },
+      },
     },
     {
-      use: 'gridsome-plugin-rss',
+      use: "gridsome-plugin-rss",
       options: {
-        contentTypeName: 'Post',
+        contentTypeName: "Post",
         feedOptions: {
-          title: 'Aboelkassem portfolio',
-          feed_url: 'https://www.aboelkassem.tech/rss.xml',
-          site_url: 'https://www.aboelkassem.tech'
+          title: "Aboelkassem portfolio",
+          feed_url: "https://www.aboelkassem.tech/rss.xml",
+          site_url: "https://www.aboelkassem.tech",
         },
-        feedItemOptions: node => ({
+        feedItemOptions: (node) => ({
           title: node.title,
           description: node.summary,
-          url: 'https://blog.aboelkassem.tech/' + node.slug,
-          author: 'aboelkassem',
-          date: node.date
+          url: "https://blog.aboelkassem.tech/" + node.slug,
+          author: "aboelkassem",
+          date: node.date,
         }),
-        output: {
-          dir: './static',
-          name: 'rss.xml'
-        }
-      }
+        output: { dir: "./static", name: "rss.xml" },
+      },
     },
     {
-      use: '@gridsome/plugin-sitemap',
+      use: "@gridsome/plugin-sitemap",
       options: {
         cacheTime: 600000, // default
-        config: {
-          '/*': {
-            changefreq: 'daily',
-            priority: 0.5
-          }
-        }
-      }
+        config: { "/*": { changefreq: "daily", priority: 0.5 } },
+      },
     },
     {
-      use: '@gridsome/plugin-google-analytics',
-      options: {
-        id: 'UA-153855958-2'
-      }
+      use: "@gridsome/plugin-google-analytics",
+      options: { id: "UA-153855958-2" },
     },
     {
       use: "gridsome-plugin-manifest",
@@ -77,48 +63,45 @@ module.exports = {
       },
     },
     {
-      use: 'gridsome-plugin-gtm',
-      options: {
-        id: 'GTM-57J8VXW',
-        enabled: true,
-        debug: true
-      }
+      use: "gridsome-plugin-gtm",
+      options: { id: "GTM-57J8VXW", enabled: true, debug: true },
     },
     {
-      use: 'gridsome-plugin-robots-txt',
+      use: "gridsome-plugin-robots-txt",
       options: {
-        host: 'https://www.aboelkassem.tech',
-        sitemap: 'https://www.aboelkassem.tech/sitemap.xml',
+        host: "https://www.aboelkassem.tech",
+        sitemap: "https://www.aboelkassem.tech/sitemap.xml",
         policy: [
           {
             userAgent: "Googlebot",
             allow: "/",
             disallow: "/search",
-            crawlDelay: 2
+            crawlDelay: 2,
           },
           {
             userAgent: "*",
             allow: "/",
             disallow: "/search",
             crawlDelay: 10,
-            cleanParam: "ref /articles/"
-          }
-        ]
-      }
+            cleanParam: "ref /articles/",
+          },
+        ],
+      },
     },
   ],
-  templates: {
-    Tag: '/tag/:id'
-  },
+  templates: { Tag: "/tag/:id" },
   transformers: {
     remark: {
       plugins: [
-        [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+        [
+          "gridsome-plugin-remark-shiki",
+          { theme: "Material-Theme-Palenight", skipInline: true },
+        ],
       ],
-      externalLinksTarget: '_blank',
-      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
-      anchorClassName: 'icon icon-link',
-    }
+      externalLinksTarget: "_blank",
+      externalLinksRel: ["nofollow", "noopener", "noreferrer"],
+      anchorClassName: "icon icon-link",
+    },
   },
-  icon: '/favicon.ico'
-}
+  icon: "/favicon.ico",
+};
