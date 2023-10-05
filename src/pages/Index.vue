@@ -67,7 +67,7 @@
 				>
 				<a
 					class="inline-block bg-background-secondary button py-2 px-3 mx-1 rounded-lg text-indigo-300 text-lg hover:text-gray-500"
-					href="mailto:aboelkassem.me@gmail.com"
+					href="mailto:aboelkassem.tech@gmail.com"
 					>
 					<svg
 						width="25"
@@ -134,7 +134,7 @@
 
 						<p class="m-8">
 							I spend a lot of my development time contributing to open-source projects.
-							Most of it started by myself which can be found from my GitHub profile. I'm also spending a lot of time blogging at <a href="https://blog.aboelkassem.me">blog.aboelkassem.me</a>.
+							Most of it started by myself which can be found from my GitHub profile. I'm also spending a lot of time blogging at <a href="https://blog.aboelkassem.tech">blog.aboelkassem.tech</a>.
 						</p>
 
 						<p class="m-8">
@@ -570,7 +570,7 @@
 				<ProjectCard
 					projectName="ChattingApp"
 					imgUrl="/aaseh.png"
-					liveLink="https://chatting.aboelkassem.me"
+					liveLink="https://chatting.aboelkassem.tech"
 					codeLink="https://github.com/aboelkassem/ChattingApp"
 					imgCoverUrl="/chattingapp.png"
 					description="A real-time messaging and dating application build with ASP.NET Core and Angular."
@@ -579,7 +579,7 @@
 				<ProjectCard
 					projectName="Foods"
 					imgUrl="/asejb.png"
-					liveLink="https://foods.aboelkassem.me"
+					liveLink="https://foods.aboelkassem.tech"
 					codeLink="https://github.com/aboelkassem/Foods_Restaurant"
 					imgCoverUrl="/foods.png"
 					description="A restaurant management system that enable customers to order food online and get delivered."
@@ -606,7 +606,7 @@
 				<ProjectCard
 					projectName="Blog"
 					imgUrl="/gn.png"
-					liveLink="https://blog.aboelkassem.me"
+					liveLink="https://blog.aboelkassem.tech"
 					codeLink="https://github.com/aboelkassem/blog"
 					imgCoverUrl="/blog.png"
 					description="My personal blog where to share my thoughts and technical articles...built using Gatsby and Netlify CMS"
