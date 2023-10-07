@@ -136,7 +136,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: "google-site-verification",
-    content: "aIHfTlNe5H8jfwFrxkQfXVQ5aOCfz0EdqO6o140ED44",
+    content: "Cfa3-x3PAYmdZcQUYdxt-HZ0SkbHwLMPIUwIGxTCnj0",
   });
 
   head.link.push({
