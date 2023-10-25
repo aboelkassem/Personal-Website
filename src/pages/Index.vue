@@ -286,7 +286,7 @@
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p75 vueColor">
+									<div progress="70" class="c100 p95 csharpColor">
 									<span>
 										<g-image
 											src="/csharp.svg"
@@ -305,13 +305,16 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p75 vueColor">
+									<div progress="70" class="c100 p80 goColor">
 									<span>
 										<g-image
-											src="/csharp.svg"
-											id="csharp"
-											alt="csharp icon"
+											src="/go-logo.png"
+											id="go-logo"
+											width="20px"
+											hight="20px"
+											alt="go-logo icon"
 											class="img-skill"
+											style="border-radius: 0;max-height: 70px;margin-top: 6px;"
 										/>								
 									</span>
 									<div class="slice">
@@ -324,7 +327,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p80 nodeColor">
 									<span>
 										<g-image
 										src="/javascript.svg"
@@ -343,7 +346,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p80 typescriptColor">
 									<span>
 										<g-image
 										src="/typescript.svg"
@@ -365,7 +368,7 @@
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p90 dotnetColor">
 									<span>
 										<g-image
 											src="/dot-NET_Core_Logo.png"
@@ -384,7 +387,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p95 dotnetColor">
 									<span>
 										<g-image
 										src="/asp.svg"
@@ -403,13 +406,13 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p90 dotnetColor">
 									<span>
 										<g-image
-										src="/asp.svg"
-										id="asp"
-										alt="asp icon"
-											class="img-skill"
+										src="/ef-core.png"
+										id="ef-core"
+										alt="ef-core icon"
+										class="img-skill"
 										/>								
 									</span>
 									<div class="slice">
@@ -422,13 +425,13 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p75 blazorColor">
 									<span>
 										<g-image
 										src="/blazor.svg"
 										id="blazor"
 										alt="blazor icon"
-											class="img-skill"
+										class="img-skill"
 										/>								
 									</span>
 									<div class="slice">
@@ -441,26 +444,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
-									<span>
-										<g-image
-										src="/angular.svg"
-										id="angular"
-										alt="angular icon"
-										class="img-skill"
-										/>								
-									</span>
-									<div class="slice">
-										<div class="bar"></div>
-										<div class="fill"></div>
-									</div>
-									</div>
-									<p class="truncate font-semibold text-center">Angular</p>
-								</div>
-							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
-								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p85 vueColor">
 									<span>
 										<g-image
 										src="/vue-9.svg"
@@ -479,12 +463,31 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p70 angularColor">
 									<span>
 										<g-image
-										src="/asp.svg"
-										id="asp"
-										alt="asp icon"
+										src="/angular.svg"
+										id="angular"
+										alt="angular icon"
+										class="img-skill"
+										/>								
+									</span>
+									<div class="slice">
+										<div class="bar"></div>
+										<div class="fill"></div>
+									</div>
+									</div>
+									<p class="truncate font-semibold text-center">Angular</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+								<div class="flex flex-col items-center ml-8 mb-8">
+									<div progress="70" class="c100 p85 llblColor">
+									<span>
+										<g-image
+										src="/LLBLGenLogo.png"
+										id="LLBLGenLogo"
+										alt="LLBLGenLogo icon"
 											class="img-skill"
 										/>								
 									</span>
@@ -498,7 +501,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p85 angularColor">
 									<span>
 										<g-image
 										src="/sql-server.svg"
@@ -517,7 +520,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p85 postgresColor">
 									<span>
 										<g-image
 										src="/postgresql.svg"
@@ -536,7 +539,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p70 postgresColor">
 									<span>
 										<g-image
 										src="/mysql.svg"
@@ -555,7 +558,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p70 postgresColor">
 									<span>
 										<g-image
 										src="/jquery.svg"
@@ -574,7 +577,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p90 htmlColor">
 									<span>
 										<g-image
 										src="/html.svg"
@@ -593,7 +596,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p90 cssColor">
 									<span>
 										<g-image
 										src="/css.svg"
@@ -615,7 +618,7 @@
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p85 gitColor">
 									<span>
 										<g-image
 										src="/git.svg"
@@ -634,7 +637,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p80 dockerColor">
 									<span>
 										<g-image
 										src="/docker.svg"
@@ -653,31 +656,12 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p90 keycloakColor">
 									<span>
 										<g-image
-										src="/docker.svg"
-										id="docker"
-										alt="docker icon"
-										class="img-skill"
-										/>								
-									</span>
-									<div class="slice">
-										<div class="bar"></div>
-										<div class="fill"></div>
-									</div>
-									</div>
-									<p class="truncate font-semibold text-center">Identity Server</p>
-								</div>
-							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
-								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
-									<span>
-										<g-image
-										src="/docker.svg"
-										id="docker"
-										alt="docker icon"
+										src="/Keycloak_Logo.png"
+										id="Keycloak_Logo"
+										alt="Keycloak_Logo icon"
 										class="img-skill"
 										/>								
 									</span>
@@ -691,12 +675,31 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p75 identityServerColor">
 									<span>
 										<g-image
-										src="/docker.svg"
-										id="docker"
-										alt="docker icon"
+										src="/identity-server.png"
+										id="identity-server"
+										alt="identity-server icon"
+										class="img-skill"
+										/>								
+									</span>
+									<div class="slice">
+										<div class="bar"></div>
+										<div class="fill"></div>
+									</div>
+									</div>
+									<p class="truncate font-semibold text-center">Identity Server</p>
+								</div>
+							</li>
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+								<div class="flex flex-col items-center ml-8 mb-8">
+									<div progress="70" class="c100 p80 elkColor">
+									<span>
+										<g-image
+										src="/elk-stack.png"
+										id="elk-stack"
+										alt="elk-stack icon"
 										class="img-skill"
 										/>								
 									</span>
@@ -710,12 +713,12 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p80 goColor">
 									<span>
 										<g-image
-										src="/docker.svg"
-										id="docker"
-										alt="docker icon"
+										src="/jaeger.png"
+										id="jaeger"
+										alt="jaeger icon"
 										class="img-skill"
 										/>
 									</span>
@@ -732,12 +735,12 @@
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p60 pythonColor">
 									<span>
 										<g-image
-										src="/flask.jpg"
-										id="flask"
-										alt="flask icon"
+										src="/python.png"
+										id="python"
+										alt="python icon"
 										class="img-skill"
 										/>								
 									</span>
@@ -751,7 +754,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p50 pythonColor">
 									<span>
 										<g-image
 										src="/flask.jpg"
@@ -770,7 +773,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 pythonColor">
+									<div progress="70" class="c100 p50 identityServerColor">
 									<span>
 										<g-image
 										src="/tensorflow-2.svg"
