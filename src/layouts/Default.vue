@@ -312,3 +312,4 @@ export default {
 </script>
 
 <style src="../css/main.css" />
+<style src="../css/circle.css" />
