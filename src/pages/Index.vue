@@ -282,7 +282,7 @@
 					class="flex flex-col sm:flex-row justify-start"
 				>
 					<div class="flex-1 text-lg sm:text-xl sm:ml-6 tech-skills" style="margin-top: -55px;">
-						<h2 class="text-2xl mt-2 text-gray-600">Currently focusing on:</h2>
+						<h2 class="text-2xl my-2 text-gray-600">Currently focusing on:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
@@ -364,7 +364,7 @@
 								</div>
 							</li>
 						</ul>
-						<h2 class="text-2xl mt-2 text-gray-600">Experienced with:</h2>
+						<h2 class="text-2xl my-2 text-gray-600">Experienced with:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
@@ -614,7 +614,7 @@
 								</div>
 							</li>
 						</ul>
-						<h2 class="text-2xl mt-2 text-gray-600">Practical Hands-on:</h2>
+						<h2 class="text-2xl my-2 text-gray-600">Practical Hands-on:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
@@ -731,7 +731,7 @@
 								</div>
 							</li>
 						</ul>
-						<h2 class="text-2xl mt-2 text-gray-600">Familiar with:</h2>
+						<h2 class="text-2xl my-2 text-gray-600">Familiar with:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
 								<div class="flex flex-col items-center ml-8 mb-8">
