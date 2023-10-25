@@ -123,6 +123,46 @@ nav .active {
     transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
     display: inline-block;
 }
+
+
+
+.tech-skills{
+  padding-top: 90px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.c100{
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+.c100 .text-skills{
+  font-weight: lighter;
+  font-size: 0.2em;
+  font-family: 'Share Tech', cursive;
+}
+
+.c100:hover > .text-skills {
+  color: #307bbb;
+  text-align:center;
+}
+
+.c100 .bar{
+  -webkit-transition: all 1.5s ease-in-out;
+    -moz-transition: all 1.5s ease-in-out;
+    -o-transition: all 1.5s ease-in-out;
+    transition: all 1.5s ease-in-out;
+}
+
+.img-skill {
+    max-width: 80% !important;
+    height: 80px !important;
+    border-radius: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 9px;
+}
   
 @keyframes wave-animation {
     0% {
