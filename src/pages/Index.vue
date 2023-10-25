@@ -284,7 +284,7 @@
 					<div class="flex-1 text-lg sm:text-xl sm:ml-6 tech-skills" style="margin-top: -55px;">
 						<h2 class="text-2xl my-2 text-gray-600">Currently focusing on:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p95 csharpColor">
 									<span>
@@ -303,7 +303,7 @@
 									<p class="truncate font-semibold text-center">C#</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p80 goColor">
 									<span>
@@ -325,7 +325,7 @@
 									<p class="truncate font-semibold text-center">GO Lang</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p80 nodeColor">
 									<span>
@@ -344,7 +344,7 @@
 									<p class="truncate font-semibold text-center">Javascript</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p80 typescriptColor">
 									<span>
@@ -366,7 +366,7 @@
 						</ul>
 						<h2 class="text-2xl my-2 text-gray-600">Experienced with:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p90 dotnetColor">
 									<span>
@@ -385,7 +385,7 @@
 									<p class="truncate font-semibold text-center">.NET Core</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p95 dotnetColor">
 									<span>
@@ -404,7 +404,7 @@
 									<p class="truncate font-semibold text-center">ASP.NET</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p90 dotnetColor">
 									<span>
@@ -423,7 +423,7 @@
 									<p class="truncate font-semibold text-center">Entity Framework Core</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p75 blazorColor">
 									<span>
@@ -442,7 +442,7 @@
 									<p class="truncate font-semibold text-center">Blazor</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p85 vueColor">
 									<span>
@@ -461,7 +461,7 @@
 									<p class="truncate font-semibold text-center">VueJs</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p70 angularColor">
 									<span>
@@ -480,7 +480,7 @@
 									<p class="truncate font-semibold text-center">Angular</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p85 llblColor">
 									<span>
@@ -499,7 +499,7 @@
 									<p class="truncate font-semibold text-center">LLBLGen ORM</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p85 angularColor">
 									<span>
@@ -518,7 +518,7 @@
 									<p class="truncate font-semibold text-center">SQL Server</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p85 postgresColor">
 									<span>
@@ -537,7 +537,7 @@
 									<p class="truncate font-semibold text-center">PostgreSQL</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p70 postgresColor">
 									<span>
@@ -556,7 +556,7 @@
 									<p class="truncate font-semibold text-center">MySQL</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p70 postgresColor">
 									<span>
@@ -575,7 +575,7 @@
 									<p class="truncate font-semibold text-center">jQuery</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p90 htmlColor">
 									<span>
@@ -594,7 +594,7 @@
 									<p class="truncate font-semibold text-center">HTML</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p90 cssColor">
 									<span>
@@ -616,7 +616,7 @@
 						</ul>
 						<h2 class="text-2xl my-2 text-gray-600">Practical Hands-on:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p85 gitColor">
 									<span>
@@ -635,7 +635,7 @@
 									<p class="truncate font-semibold text-center">Git</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p80 dockerColor">
 									<span>
@@ -654,7 +654,7 @@
 									<p class="truncate font-semibold text-center">Docker</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p90 keycloakColor">
 									<span>
@@ -673,7 +673,7 @@
 									<p class="truncate font-semibold text-center">Keycloak</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p75 identityServerColor">
 									<span>
@@ -692,7 +692,7 @@
 									<p class="truncate font-semibold text-center">Identity Server</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p80 elkColor">
 									<span>
@@ -711,7 +711,7 @@
 									<p class="truncate font-semibold text-center">Elastic Search (ELK Stack)</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p80 goColor">
 									<span>
@@ -733,7 +733,7 @@
 						</ul>
 						<h2 class="text-2xl my-2 text-gray-600">Familiar with:</h2>
 						<ul class="flex flex-wrap ml-8 text-base ml-auto mb-4">
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p60 pythonColor">
 									<span>
@@ -752,7 +752,7 @@
 									<p class="truncate font-semibold text-center">Python</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p50 pythonColor">
 									<span>
@@ -771,7 +771,7 @@
 									<p class="truncate font-semibold text-center">Flask</p>
 								</div>
 							</li>
-							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/4">
+							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
 									<div progress="70" class="c100 p50 identityServerColor">
 									<span>
