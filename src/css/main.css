@@ -163,7 +163,7 @@ nav .active {
     margin-left: auto;
     padding: 9px;
 }
-  
+
 @keyframes wave-animation {
     0% {
       transform: rotate(0deg);
