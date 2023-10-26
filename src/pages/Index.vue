@@ -406,7 +406,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 dotnetColor">
+									<div progress="70" class="c100 p80 dotnetColor">
 									<span>
 										<g-image
 										src="/ef-core.png"
@@ -425,7 +425,7 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p75 blazorColor">
+									<div progress="70" class="c100 p85 blazorColor">
 									<span>
 										<g-image
 										src="/blazor.svg"
