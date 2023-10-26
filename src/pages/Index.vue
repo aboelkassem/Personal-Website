@@ -293,7 +293,7 @@
 											id="csharp"
 											alt="csharp icon"
 											class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -315,7 +315,7 @@
 											alt="go-logo icon"
 											class="img-skill"
 											style="border-radius: 0;max-height: 70px;margin-top: 6px;"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -334,7 +334,7 @@
 										id="javascript"
 										alt="javascript icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -353,7 +353,7 @@
 										id="typescript"
 										alt="typescript icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -375,7 +375,7 @@
 											id="dot-net-core"
 											alt="dot-net-core icon"
 											class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -394,7 +394,7 @@
 										id="asp"
 										alt="asp icon"
 											class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -406,14 +406,14 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p90 dotnetColor">
+									<div progress="70" class="c100 p80 dotnetColor">
 									<span>
 										<g-image
 										src="/ef-core.png"
 										id="ef-core"
 										alt="ef-core icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -425,14 +425,14 @@
 							</li>
 							<li class="flex-initial transition duration-500 ease-in-out transform hover:scale-110 hover:text-green-600 hover:text-opacity-75 w-1/5">
 								<div class="flex flex-col items-center ml-8 mb-8">
-									<div progress="70" class="c100 p75 blazorColor">
+									<div progress="70" class="c100 p85 blazorColor">
 									<span>
 										<g-image
 										src="/blazor.svg"
 										id="blazor"
 										alt="blazor icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -451,7 +451,7 @@
 										id="vue"
 										alt="vue icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -470,7 +470,7 @@
 										id="angular"
 										alt="angular icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -489,7 +489,7 @@
 										id="LLBLGenLogo"
 										alt="LLBLGenLogo icon"
 											class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -508,7 +508,7 @@
 										id="sql-server"
 										alt="sql-server icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -527,7 +527,7 @@
 										id="postgresql"
 										alt="postgresql icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -546,7 +546,7 @@
 										id="mysql"
 										alt="mysql icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -565,7 +565,7 @@
 										id="jquery"
 										alt="jquery icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -584,7 +584,7 @@
 										id="html"
 										alt="html icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -603,7 +603,7 @@
 										id="css"
 										alt="css icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -625,7 +625,7 @@
 										id="git"
 										alt="git icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -644,7 +644,7 @@
 										id="docker"
 										alt="docker icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -663,7 +663,7 @@
 										id="Keycloak_Logo"
 										alt="Keycloak_Logo icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -682,7 +682,7 @@
 										id="identity-server"
 										alt="identity-server icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -701,7 +701,7 @@
 										id="elk-stack"
 										alt="elk-stack icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -742,7 +742,7 @@
 										id="python"
 										alt="python icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -761,7 +761,7 @@
 										id="flask"
 										alt="flask icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
@@ -780,7 +780,7 @@
 										id="tensorflow"
 										alt="tensorflow icon"
 										class="img-skill"
-										/>								
+										/>
 									</span>
 									<div class="slice">
 										<div class="bar"></div>
