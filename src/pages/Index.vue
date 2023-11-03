@@ -128,27 +128,22 @@
 					</div>
 					<div class="bg-background-tertiary flex-1 text-lg sm:text-xl ml-6">
 						<p class="m-8">
-							Hi, I'm Mohamed Abdelrahman, a Software Developer at <a href="https://silverkeytech.com">SilverKey Technologies</a>,
-							and a passionate self-taught software developer from Egypt.
+							Hi, I'm Mohamed Abdelrahman, currently I am a Software Developer at <a href="https://silverkeytech.com">SilverKey Technologies</a>,
+							and a passionate self-taught software developer with 3+ years of experience in enterprise architecture systems from Egypt. I am enjoy writing clean, secure, and maintainable code.
 						</p>
 
 						<p class="m-8">
 							I spend a lot of my development time contributing to open-source projects.
-							Most of it started by myself which can be found from my GitHub profile. I'm also spending a lot of time blogging at <a href="https://blog.aboelkassem.tech">blog.aboelkassem.tech</a>.
+							Most of it started by myself which can be found from my <a href="https://github.com/aboelkassem">GitHub profile</a>. I'm also spending a lot of time blogging at <a href="https://blog.aboelkassem.tech">blog.aboelkassem.tech</a>.
 						</p>
 
 						<p class="m-8">
-							As a software engineer, I enjoy working on full-stack projects.
-							I specialize in C# and enjoy using Microsoft technologies such as .NET Framework and .NET Core, ASP.NET, MVC,  Web API, Blazor. In addition to write JavaScript and Typescript with Vuejs and Angular, and SQL databases to create projects. I also have doing staff using Java, LLBLGen ORM, SignalR, and xUnit.
-						</p>
-
-						<p class="m-8">
-							I have some extra experience in Machine learning and Data Science specially within Computer Vision area. Since I have done some deep learning projects using Tensorflow, Keras and integrate them with Flask.
+							I have strong and functional knowledge extends across multiple domains, including Digital Finance and Payments, Government Gateways, Education Management, and Labour Market Access Management.
 						</p>
 
 						<p class="m-8">
 							Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development, interesting experiences and personal growth.
-							<a href="https://drive.google.com/file/d/1uxnweDRi0c_OcKkCtYc4gY-Q-Vnzthpv/view?usp=sharing">View resume</a>
+							Feel free to reach out <a href="https://drive.google.com/file/d/1uxnweDRi0c_OcKkCtYc4gY-Q-Vnzthpv/view?usp=sharing">my resume</a> for further details.
 						</p>
 					</div>
 				</div>
