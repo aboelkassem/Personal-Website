@@ -174,33 +174,51 @@
 				<div
 					class="d-flex flex-col sm:flex-row justify-between items-center mb-16"
 				>
-					<div class="mb-5">
+					<div class="mb-5 bg-background-tertiary">
 						<div class="d-flex justify-content-between">
 							<div class="float-left"><a href="https://silverkeytech.com">SilverKey Technologies</a> - Software Engineer</div>
 							<div class="float-right">October 2021 – Present</div>
 						</div>
 						<br>
-						<ul class="ml-5 bg-background-tertiary">
-							<li>- Develop and build large-scale web applications using C#, Dotnet Core, Blazor, Vuejs, PostgreSQL, and WCF SOAP.</li>
-							<li>- Work on many governmental and private business projects for different sectors.</li>
-							<li>- Analyze business requirements for different projects.</li>
-							<li>- Implement complex business solutions with modular system architectures.</li>
-							<li>- Research new technologies that solve business needs.</li>
-							<li>- Work on phase 2 of developing a monitor digital system for the Ministry of Education and Technical Education (<strong>MoETE</strong>) and in partnership with <strong>GIZ</strong>.</li>
+						<p>I have worked on designing and building many financial projects for <a href="https://taly.com.eg">Taly digital payments</a> and other governorate management systems. The following highlights the projects to which I've contributed and my responsibilities:</p>
+						<h4 class="text-2xl mt-2">Taly BNPL (Buy Now Pay Later)</h4>
+						<ul class="ml-5">
+							<li>- Initiated the project architecture by applying the best practices in .NET Core with backend for frontend (BFF) pattern.</li>
+							<li>- Developed and designed web poral features including plan management, onboarding flow, maker/checker review, action logs, auto-approval, in-system notifications, background services, and others.</li>
+							<li>- Implemented secure and resilient APIs (Internal and Integration) for onboarding and payments external merchants.</li>
+							<li>- Design the system to be multi-tenant enabling banks serve their nested corporate, aggregators, and merchants.</li>
+							<li>- Document the database design and integration API Guide.</li>
 						</ul>
-					</div>
-					<div class="mb-5">
-						<div class="d-flex justify-content-between">
-							<div class="float-left"><a href="https://silverkeytech.com">SilverKey Technologies</a> - Software Engineer Intern</div>
-							<div class="float-right">July 2021 – October 2021</div>
-						</div>
-						<br>
-						<ul class="ml-5 bg-background-tertiary">
-							<li>- Built a Pizza ordering App for training on new .NET tools such as C# 10, ASP.NET Core 6.0, Minimal APIs.</li>
-							<li>- Research new technologies such as LLBLGen ORM, Vuejs, FluentMigrator, PosgreSQL, MediatR and CQRS Pattern.</li>
-							<li>- Learned about the software quality, development model, and database design.</li>
-							<li>- Worked on developing new features, debugging, and fixing bugs for the employment system called Labour Market Access (<strong>LMAP</strong>) in partnership with <strong>GIZ</strong>.</li>
+						<h4 class="text-2xl mt-2">Taly Meeza Wallet</h4>
+						<ul class="ml-5">
+							<li>- Developed a fully REST APIs based on service-oriented architecture (SOA) for the wallet mobile app.</li>
+							<li>- Implemented the SOAP protocol of Meeza digital network to handle wallet processing in Egypt, achieving certification from <a href="https://www.egyptianbanks.com">Egyptian Bank</a>.</li>
+							<li>- Reduced database workload by implementing distributed caching, leading to improved overall performance.</li>
+							<li>- Ensured regulatory compliance from the <a href="https://www.cbe.org.eg">Central Bank of Egypt (CBE)</a> by meeting their security, payment standards and requirements.</li>
 						</ul>
+						<h4 class="text-2xl mt-2">Taly Installment</h4>
+						<ul class="ml-5">
+							<li>- Developed file mapping and processing functionality to synchronize Bank installment plans and POS transactions.</li>
+							<li>- Implemented SFTP and FTPS connections export and importing files to/from third parties.</li>
+							<li>- Created a file tracking feature to log every event associated with generated files.</li>
+							<li>- Created a file tracking feature to log every event associated with generated files.</li>
+							<li></li>
+						</ul>
+						<h4 class="text-2xl mt-2">Education Quality Monitoring System (EQMS)</h4>
+						<ul class="ml-5">
+							<li>- Delivered the next phase to the Ministry of Education and Technical Education (MoETE) in partnership with <a href="https://giz.de">GIZ</a>.</li>
+							<li>- Developed many features in the web portal including school forums, assessment and statistics reports, notifications, and surveys.</li>
+							<li>- Implemented the backend REST APIs for school and administration tablets. </li>
+							<li>- Documented the system user manual and system architecture for clarity and user experience.</li>
+						</ul>
+						<h4 class="text-2xl mt-2">Labour Market Access Project</h4>
+						<ul class="ml-5">
+							<li>- Created Complex queries for reporting dashboard for <a href="https://jobhubs.net">LMAP </a> <a href="https://admin.jobhubs.net">Admin</a> portal to serve many employment centers and job seekers in Egypt with partnership with <a href="https://giz.de">GIZ</a>.</li>
+							<li>- Executed data migration of the database from the legacy software schema to fit the new software schema.</li>
+							<li>- Developed other features like sharing knowledge base, complaints, and company subscriptions.</li>
+							<li>- Implemented global role authorization and user specific authorization to be manageable in admin portal.</li>
+						</ul>
+						<p class="mt-2"><strong>Tech Stack</strong>: .NET Core 8, OAuth2 with Keycloak, VueJs, LLBLGen, Blazor WASM and Server Side, CQRS, xUnit, gRPC, SQL Server, PostgreSQL, Docker, Open Telemetry (Jaeger), and Elastic Stack (ELK).</p>
 					</div>
 				</div>
 			</div>
