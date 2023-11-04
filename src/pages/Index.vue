@@ -914,7 +914,7 @@
 
 					<p class="my-8">
 						If you want to chat about anything? Ping me anytime on
-						<a href="https://twitter.com/aboel_kassem">Twitter</a>. I’m also on <a href="https://github.com/aboelkassem">Github</a>, and <a href="https://www.linkedin.com/in/aboelkassem">Linkedin</a> if you’re into that sort of thing.
+						<a href="https://twitter.com/maboelkassim">Twitter</a>. I’m also on <a href="https://github.com/aboelkassem">Github</a>, and <a href="https://www.linkedin.com/in/aboelkassem">Linkedin</a> if you’re into that sort of thing.
 					</p>
 
 
