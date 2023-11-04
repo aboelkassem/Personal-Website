@@ -230,7 +230,7 @@
 					<li>
 						<a
 							aria-label="twitter icon"
-							href="https://twitter.com/aboel_kassem"
+							href="https://twitter.com/maboelkassim"
 							rel="noreferrer"
 							target="_blank"
 							class="text-white hover:text-gray-400"
@@ -252,7 +252,7 @@
 					<li>
 						<a
 							aria-label="instagram icon"
-							href="https://www.instagram.com/ab0elkassem"
+							href="https://www.instagram.com/maboelkassim"
 							rel="noreferrer"
 							target="_blank"
 							class="text-white hover:text-gray-400"
