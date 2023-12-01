@@ -127,7 +127,7 @@
 					</li>
 					<li>
 						<a
-							href="/Mohamed-Abdelrahman-Software Engineer.pdf"
+							href="/Mohamed-Kassem-Software Engineer"
 							class="text-copy-primary hover:text-gray-600 cursor-pointer"
 							data-cypress="resume"
 							>Resume</a
