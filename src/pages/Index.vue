@@ -121,7 +121,7 @@
 						<g-image
 							width="20px"
                             height="20px"
-							src="/avatar.jpg"
+							src="/avatar.jpeg"
 							alt="avatar"
 							class="w-64 h-full mb-8 lg:mb-0 rounded-lg"
 						/>
