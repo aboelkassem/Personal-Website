@@ -123,7 +123,7 @@
                             height="20px"
 							src="/avatar.png"
 							alt="avatar"
-							class="w-64 h-full mb-8 lg:mb-0 rounded-full"
+							class="w-64 h-full mb-8 lg:mb-0"
 						/>
 					</div>
 					<div class="bg-background-tertiary flex-1 text-lg sm:text-xl ml-6">
